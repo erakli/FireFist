@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL345_Breakout
+D Triple Axis Accelerometer Breakout, I2C/SPI
+K 3-axis accelerometer i2c spi mems breakout
+F https://www.sparkfun.com/products/9836
+$ENDCMP
+#
+$CMP Arduino_Pro_Mini
+D Arduino Pro Mini
+K Arduino Pro Mini Microcontroller Module Atmel AVR USB
+F https://www.arduino.cc/en/uploads/Main/Arduino-Pro-Mini-schematic.pdf
+$ENDCMP
+#
+#End Doc Library

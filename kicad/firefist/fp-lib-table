@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name firefist)(type KiCad)(uri ${KIPRJMOD}/../modules/firefist.pretty)(options "")(descr ""))
+)
